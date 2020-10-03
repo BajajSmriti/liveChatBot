@@ -1,7 +1,7 @@
 
 const WebSocket = require("ws"); // https://github.com/websockets/ws
 const request = require("superagent"); // https://github.com/visionmedia/superagent
-const ACCESS_TOKEN = "dtdM8FoAuWQ8ZkwwDZfhPmCRCVhjhDJHUyYYEmE9U6QSBfMB00LY0CgzZJVJcuIv";
+const ACCESS_TOKEN = "";
 const express = require('express');
 const app = express();
 const port = 3000;
